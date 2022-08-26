@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165401887342",
+    "project_id": "awaaz-a3349",
+    "storage_bucket": "awaaz-a3349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165401887342:android:e88af61512bc679d36dc7f",
+        "android_client_info": {
+          "package_name": "com.awaaz.awaazapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165401887342-p6l58vl61f2g7s3rm10b11ag3l3vrdcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF3E92gZpJMbw8zPvZ9w98rYobNusZWRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165401887342-p6l58vl61f2g7s3rm10b11ag3l3vrdcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
